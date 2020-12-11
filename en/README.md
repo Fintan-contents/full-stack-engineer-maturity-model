@@ -1,4 +1,4 @@
-# Maturity model for full stack engineers
+# Full stack engineer maturity model
 
 > From the [Fintan Engineering Guide for Service Development](https://fintan.jp/?p=869)
 >
