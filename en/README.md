@@ -2,15 +2,17 @@
 
 > From the [Fintan Engineering Guide for Service Development](https://fintan.jp/?p=869)
 >
-> Creative service development requires a development team that is autonomously organized. This means that the team members need to choose the methods that are best for them and take the initiative to increase the value they add to the service.
+> Creative service development requires a development team self-organized. This means that the team members need to choose the methods that are best for them and take the initiative to increase the value they add to the service.
 >
-> To accomplish this, the composition of the service development team should ideally represent a functional cross-section, and the team members should collectively be able to cover the skills required for full stack engineering. In particular, each team member must have T-shaped skills and continuously master skill sets that are needed. 
+> To accompish this, when structuring a team for service development, it is advisable 
+  that the development members are arranged in a cross-functional manner, and that the team 
+  is structured to cover the full stack of skills. In particular, each team member must have T-shaped skills and continuously master skill sets that are needed. 
 
-When development team members need to master full stack skills with a functional cross section for service development, you need indexes indicating which skills they need to master and how much they need to improve those skills. 
+When development team members need to master full stack skills for service development, you need some kind of indicators for which skills they need to master and how much they need to improve those skills. 
 
-When team members merely focus vaguely on improving the skills they are good at or specific skills are repeatedly focused on when assigning work, team members may become specialists in their particular areas, but this will not necessarily turn them into engineers whose skills have a functional cross section. 
+When team members merely focus vaguely on improving the skills they are good at or specific skills are repeatedly focused on when assigning work, team members may become specialists in their particular areas, but this approach does not necessarily mean they will become engineers with full stack skills. 
 
-To build full stack skills with a functional cross section, it is necessary to  check and conduct an assessment of the areas where engineers need to improve their skills and the extent to which they need to improve, and train them systematically. 
+To build full stack skills, it is necessary to  check and conduct an assessment of the areas where engineers need to improve their skills and the extent to which they need to improve, and train them systematically. 
 
 Our maturity model for full stack engineers provides indexes that define the areas that personnel need to learn and the rank or levels that they need to reach in order to become full stack engineers.
 
